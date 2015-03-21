@@ -1,0 +1,39 @@
+GIT
+  remote: git://github.com/fukuiretu/itamae-plugin-recipe-atom.git
+  revision: 9d379dc6eef697a432e5f10770df25a43aa310a1
+  specs:
+    itamae-plugin-recipe-atom (0.0.1)
+
+GIT
+  remote: git://github.com/fukuiretu/itamae-plugin-recipe-homebrew.git
+  revision: 71b9c1aa7d0bb70fec9137f606f0d61e3ec3e966
+  specs:
+    itamae-plugin-recipe-homebrew (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.5.0)
+    hashie (3.4.0)
+    itamae (1.1.24)
+      ansi
+      hashie
+      schash (~> 0.1.0)
+      specinfra (>= 2.18.2)
+      thor
+    net-scp (1.2.1)
+      net-ssh (>= 2.6.5)
+    net-ssh (2.9.2)
+    schash (0.1.0)
+    specinfra (2.19.6)
+      net-scp
+      net-ssh
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  itamae
+  itamae-plugin-recipe-atom!
+  itamae-plugin-recipe-homebrew!
