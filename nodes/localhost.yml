@@ -64,6 +64,7 @@ brew:
     - appcleaner
     - bettertouchtool
     - duet
+    - sequel-pro
 atom:
   install_packages:
     - monokai
