@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bundle exec itamae local recipes/bootstrap.rb -y nodes/local.yml -l debug
+bundle exec itamae local recipes/bootstrap.rb -y nodes/localhost.yml -l debug

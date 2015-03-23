@@ -63,6 +63,7 @@ brew:
     - xtrafinder
     - appcleaner
     - bettertouchtool
+    - duet
 atom:
   install_packages:
     - monokai
