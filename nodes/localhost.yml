@@ -102,3 +102,4 @@ atom:
     - serverspec-snippets
     - language-rspec
     - vim-mode
+    - language-haml
