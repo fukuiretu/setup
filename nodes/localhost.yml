@@ -51,6 +51,9 @@ brew:
     - libxml2
     - libxslt
     - terminal-notifier
+    - watchman
+    - flow
+    - packer
   install_apps:
     - google-chrome
     - iterm2
