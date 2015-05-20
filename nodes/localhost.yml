@@ -54,6 +54,7 @@ brew:
     - watchman
     - flow
     - packer
+    - elasticsearch
   install_apps:
     - google-chrome
     - iterm2
