@@ -1,5 +1,5 @@
 brew:
-  enable_update: false
+  enable_update: true
   enable_upgrade: false
   add_repositories:
     - homebrew/dupes
@@ -55,6 +55,7 @@ brew:
     - flow
     - packer
     - elasticsearch
+    - qt
   install_apps:
     - google-chrome
     - iterm2
