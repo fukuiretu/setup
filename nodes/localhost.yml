@@ -5,6 +5,7 @@ brew:
     - homebrew/dupes
     - homebrew/versions
     - homebrew/binary
+    - homebrew/headonly
     - peco/peco
     - motemen/ghq
   install_packages:
@@ -56,6 +57,7 @@ brew:
     - packer
     - elasticsearch
     - qt
+    - h2o
   install_apps:
     - google-chrome
     - iterm2
