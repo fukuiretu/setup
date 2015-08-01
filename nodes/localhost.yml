@@ -58,6 +58,7 @@ brew:
     - elasticsearch
     - qt
     - h2o
+    - toilet
   install_apps:
     - google-chrome
     - iterm2
