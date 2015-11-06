@@ -59,6 +59,9 @@ brew:
     - qt
     - h2o
     - toilet
+    - ansible
+    - elasticsearch13
+    - terraform
   install_apps:
     - google-chrome
     - iterm2
